@@ -21,8 +21,9 @@
 ### how to add steam-locomotive alias command in powershell
 
 1. create file if don't have -> C:\Users\${yourusername}\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
-2. add line -> Set-Alias steam-locomotive "{path to executable }"
-   exp -> Set-Alias steam-locomotive "C:\PowerShellProjects\sl\sl"
+2. add line -> ```Set-Alias steam-locomotive "{path to executable }"```
+
+   exp -> ```Set-Alias steam-locomotive "C:\PowerShellProjects\sl\sl"```
 
 # SL(1): Cure your bad habit of mistyping
 
